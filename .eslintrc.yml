@@ -1,0 +1,7 @@
+parser: babel-eslint
+plugins:
+  - prettier
+extends:
+  - standard
+  - standard-react
+  - prettier/standard
